@@ -1,0 +1,7 @@
+{
+  "console_api": "https://app.aethir.com",
+  "license_portal": "app.aethir.com",
+  "client_portal": "checker.aethir.com",
+  "ws_server_port": 9002,
+  "timing_service": [ "pool.ntp.org", "time1.google.com" ]
+}
